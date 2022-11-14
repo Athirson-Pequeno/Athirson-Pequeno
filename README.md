@@ -1,3 +1,3 @@
 - 👋 Meu nome é @Athirson-Pequeno
-- 🌱 Atualmente esto estudando react-native
+- 🌱 Atualmente estou estudando react-native
 - 📫 Meu LinkedIn: https://www.linkedin.com/in/athirson-pequeno-9912aa241/
