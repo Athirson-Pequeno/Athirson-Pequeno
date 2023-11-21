@@ -1,5 +1,5 @@
-- 👋 Meu nome é @Athirson-Pequeno
-- 🌱 Atualmente estou estudando react-native
+- 👋 Meu nome é @Athirson-Pequeno.
+- 🌱 Atualmente estou estudando Java focando no framework Spring.
 - 📫 Meu LinkedIn: https://www.linkedin.com/in/athirson-pequeno-9912aa241/
 
 
