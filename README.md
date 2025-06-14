@@ -4,3 +4,4 @@
 
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Pequeno&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Athirson-Pequeno&show_icons=true&theme=tokyonight" height="200"/>
