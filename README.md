@@ -4,5 +4,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Pequeno&hide=html&layout=compact&theme=tokyonight" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Athirson-Pequeno&show_icons=true&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Pequeno&hide=html&layout=compact&theme=tokyonight" height="200"/><img src="https://github-readme-stats.vercel.app/api?username=Athirson-Pequeno&show_icons=true&theme=tokyonight" height="200"/>
